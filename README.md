@@ -48,13 +48,23 @@ Importância de cada sintoma no diagnóstico:
 
 ## 🧮 Fórmula da Similaridade
 
-Para cada atributo:
+A similaridade entre dois casos é calculada com base na correspondência dos atributos e seus respectivos pesos.
 
-1. Calculamos a **similaridade local** (valor entre 0 e 1)  
-2. Multiplicamos pelo **peso atribuído ao atributo**  
-3. Calculamos a **média ponderada** para obter a similaridade total
+### 📐 Fórmula
 
----
+$$
+\text{Similaridade}(C_1, C_2) = \left( \frac{ \sum_{i=1}^{n} w_i \cdot \delta(a_i^{(1)}, a_i^{(2)}) }{ \sum_{i=1}^{n} w_i } \right) \times 100
+$$
+
+### 🧾 Legenda dos símbolos
+
+- `C₁` e `C₂`: os dois casos a serem comparados  
+- `aᵢ(¹)` e `aᵢ(²)`: valor do atributo `i` em cada caso  
+- `wᵢ`: peso associado ao atributo `i`  
+- `δ(aᵢ(¹), aᵢ(²))`: função que retorna 1 se os valores forem iguais, e 0 caso contrário  
+- `n`: número total de atributos
+
+> O resultado é uma porcentagem de similaridade entre 0 e 100.
 
 ## 🚀 Etapa 3: Como Executar o Código
 
