@@ -9,18 +9,17 @@
 
 ## 🔧 Etapa 1: Escolher o Tema do RBC
 
-**Tema escolhido:** Diagnóstico de doenças respiratórias leves
+**Tema escolhido:** Diagnóstico de carcinoma tireodiano
 
 ### 🔍 Atributos
 
-- **Febre:** Sim / Não
-- **Tosse:** Seca / Produtiva / Não
-- **Falta de ar:** Leve / Moderado / Severo / Não
-- **Dor de garganta:** Sim / Não
-- **Raio-X alterado:** Sim / Não
-- **Cansaço:** Leve / Moderado / Severo / Não
-- **Coriza:** Sim / Não
-- **Duração dos sintomas:** Número de dias
+- **Age:** Número da idade
+- **Gender:** Feminino / Masculino
+- **Smoking:** Sim / Não
+- **Hx Smoking:** Sim / Não
+- **Hx Radiothreapy:** Sim / Não
+- **Physical Examination:** Normal / Single nodular goiter-left / Single nodular goiter-right / Multinodular goiter / Diffuse goiter
+- **Adenopathy:** No / Right / Left / Extensive / Bilateral / Posterior
 
 ---
 
@@ -32,16 +31,15 @@ Dado um novo caso (paciente com sintomas), buscar os casos mais parecidos em uma
 ### 🗂️ Atributos do Caso (cada paciente)
 
 ```
-| Sintoma              | Peso |
+| Atributo             | Peso |
 |----------------------|------|
-| Febre                | 0.5  |
-| Tosse                | 0.3  |
-| Falta de Ar          | 0.8  |
-| Cansaço              | 0.4  |
-| Dor de Garganta      | 0.3  |
-| Raio-X Alterado      | 0.75 |
-| Coriza               | 0.25 |
-| Duração dos sintomas | 0.5  |
+| Age                  | 0.8  |
+| Gender               | 0.3  |
+| Smoking              | 0.2  |
+| Hx Smoking           | 0.1  |
+| Hx Radiotherapy      | 1.0  |
+| Physical Examination | 0.9  |
+| Adenopathy           | 1.0  |
 ```
 
 ---
@@ -50,10 +48,48 @@ Dado um novo caso (paciente com sintomas), buscar os casos mais parecidos em uma
 
 Importância de cada sintoma no diagnóstico:
 
-- **Febre** e **tosse** são mais indicativas de Covid ou gripe → peso **maior**
-- **Dor de garganta** e **coriza** são mais comuns, menos determinantes → peso **menor**
+- ### 🧓 Age – Peso: 0.8
 
-> Esses pesos poderão ser ajustados via interface!
+  > Pacientes mais jovens tendem a ter melhor prognóstico, enquanto pacientes acima de 55 anos têm maior risco de doença agressiva.
+
+- ### 🚻 Gender – Peso: 0.3
+
+  > Embora o carcinoma tireoidiano seja mais comum em mulheres, a presença em homens costuma ser associada a maior agressividade. Entretanto, seu valor preditivo isolado é limitado.
+
+- ### 🚬 Smoking – Peso: 0.2
+
+  > O tabagismo não é um fator causal direto bem estabelecido para câncer de tireoide, mas pode causar um prognóstico pior.
+
+- ### 🔄 Hx Smoking (Histórico de tabagismo) – Peso: 0.1
+
+  > Tem relevância menor do que o tabagismo atual, mas pode indicar exposição prolongada a fatores de risco.
+
+- ### ☢️ Hx Radiotherapy – Peso: 1.0
+
+  > O histórico de radioterapia cervical é um dos principais fatores de risco conhecidos para câncer de tireoide.
+
+- ### 🩺 Physical Examination – Peso: 0.9
+
+  > Presença de bócio nodular único ou múltiplo é altamente relevante. Nódulos solitários têm maior suspeita de malignidade do que bócios multinodulares. A localização (esquerda/direita) pode importar menos, mas o padrão de apresentação é crítico.
+
+- ### 🧠 Adenopathy – Peso: 1.0
+  > A aparição de linfonodos é altamente sugestiva de malignidade ou metástase linfática.
+
+## Possíveis resultados
+
+Os resultados consistem no tipo de carcinoma e o nível de risco do diagnóstico
+
+- **Micropapillary Low**
+- **Micropapillary Intermediate**
+- **Papillary Low**
+- **Papillary Intermediate**
+- **Papillary High**
+- **Follicular Low**
+- **Follicular Intermediate**
+- **Follicular High**
+- **Hurthel cell Low**
+- **Hurthel cell Intermediate**
+- **Hurthel cell High**
 
 ---
 
@@ -84,7 +120,7 @@ $$
 O código principal do projeto está no arquivo:
 
 ```
-main.py
+carcinoma.py
 ```
 
 ### ▶️ Passo a passo para execução
@@ -102,8 +138,8 @@ main.py
 python --version
 ```
 
-3. **Execute o script** principal:
+3. **Execute o script**:
 
 ```
-python main.py
+python carcinoma.py
 ```

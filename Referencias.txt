@@ -1,10 +1,9 @@
-https://blog.sabin.com.br/saude/quais-as-principais-doencas-respiratorias/
-
-https://blog.cdb.com.br/doencas-respiratorias-conheca-os-exames-de-deteccao/
-
-https://www.kaggle.com/datasets/s3programmer/disease-diagnosis-dataset
-
 https://www.kaggle.com/datasets/jainaru/thyroid-disease-data
+
 https://www.msdmanuals.com/pt/profissional/dist%C3%BArbios-end%C3%B3crinos-e-metab%C3%B3licos/dist%C3%BArbios-da-tireoide/c%C3%A2nceres-da-tireoide
+
 https://www.ncbi.nlm.nih.gov/books/NBK568736/
+
 https://www.saudedireta.com.br/docsupload/1340495795protocolo_ca_tireoide_uel.pdf
+
+https://www.cancer.org/cancer/types/thyroid-cancer/detection-diagnosis-staging.html

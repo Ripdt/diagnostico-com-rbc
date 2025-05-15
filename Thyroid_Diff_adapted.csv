@@ -1,0 +1,384 @@
+﻿Age;Gender;Smoking;Hx Smoking;Hx Radiotherapy;Thyroid Function;Physical Examination;Adenopathy;Pathology Risk
+27;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Micropapillary Low
+34;F;No;Yes;No;Euthyroid;Multinodular goiter;No;Micropapillary Low
+30;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Micropapillary Low
+62;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Micropapillary Low
+62;F;No;No;No;Euthyroid;Multinodular goiter;No;Micropapillary Low
+52;M;Yes;No;No;Euthyroid;Multinodular goiter;No;Micropapillary Low
+41;F;No;Yes;No;Clinical Hyperthyroidism;Single nodular goiter-right;No;Micropapillary Low
+46;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Micropapillary Low
+51;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Micropapillary Low
+40;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Micropapillary Low
+75;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Micropapillary Low
+59;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Micropapillary Low
+49;F;No;No;No;Euthyroid;Multinodular goiter;No;Micropapillary Low
+50;F;No;No;No;Clinical Hyperthyroidism;Multinodular goiter;No;Micropapillary Low
+76;F;No;No;No;Clinical Hypothyroidism;Single nodular goiter-right;No;Micropapillary Low
+42;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Micropapillary Low
+40;F;No;Yes;No;Euthyroid;Single nodular goiter-right;No;Micropapillary Low
+44;F;No;No;No;Euthyroid;Multinodular goiter;No;Micropapillary Low
+43;F;No;No;No;Euthyroid;Multinodular goiter;No;Micropapillary Low
+52;F;No;No;No;Euthyroid;Multinodular goiter;No;Micropapillary Low
+41;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Micropapillary Low
+44;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Micropapillary Low
+36;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Micropapillary Low
+70;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Micropapillary Low
+60;F;No;No;No;Euthyroid;Multinodular goiter;No;Micropapillary Low
+33;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Micropapillary Low
+43;M;No;No;No;Subclinical Hyperthyroidism;Single nodular goiter-left;No;Micropapillary Low
+26;M;No;No;No;Euthyroid;Single nodular goiter-left;No;Micropapillary Low
+41;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Micropapillary Low
+37;F;No;Yes;No;Subclinical Hypothyroidism;Normal;No;Micropapillary Low
+37;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Micropapillary Low
+30;F;No;No;No;Clinical Hyperthyroidism;Normal;No;Micropapillary Low
+36;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Micropapillary Low
+55;F;No;No;No;Euthyroid;Multinodular goiter;No;Micropapillary Low
+52;M;Yes;No;No;Euthyroid;Single nodular goiter-left;No;Micropapillary Low
+37;F;No;No;No;Subclinical Hypothyroidism;Single nodular goiter-left;No;Micropapillary Low
+31;F;No;No;No;Clinical Hyperthyroidism;Diffuse goiter;No;Micropapillary Low
+43;M;No;No;No;Euthyroid;Multinodular goiter;No;Micropapillary Low
+40;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Micropapillary Low
+34;F;No;No;No;Euthyroid;Diffuse goiter;No;Micropapillary Low
+51;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Micropapillary Low
+45;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Micropapillary Low
+20;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Micropapillary Low
+38;F;No;No;No;Euthyroid;Multinodular goiter;No;Micropapillary Low
+38;F;No;No;No;Clinical Hyperthyroidism;Diffuse goiter;No;Micropapillary Low
+33;F;No;No;No;Euthyroid;Multinodular goiter;No;Micropapillary Low
+31;F;No;No;No;Clinical Hypothyroidism;Multinodular goiter;No;Micropapillary Intermediate
+31;F;No;No;No;Euthyroid;Multinodular goiter;Right;Papillary Intermediate
+26;F;No;No;No;Euthyroid;Normal;Extensive;Papillary Intermediate
+29;F;No;No;No;Euthyroid;Multinodular goiter;No;Follicular Low
+43;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Micropapillary Low
+30;F;No;No;No;Subclinical Hyperthyroidism;Multinodular goiter;No;Papillary Low
+25;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+27;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+25;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+21;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+43;F;No;Yes;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+23;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+23;F;No;No;No;Clinical Hyperthyroidism;Single nodular goiter-left;No;Papillary Low
+43;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+24;M;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+35;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+54;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+54;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+22;F;No;No;No;Subclinical Hyperthyroidism;Single nodular goiter-right;No;Papillary Low
+38;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+35;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+51;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+22;M;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+51;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+40;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+69;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+31;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+29;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+30;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+28;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+22;F;No;No;No;Clinical Hypothyroidism;Single nodular goiter-right;No;Papillary Low
+29;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+35;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+50;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+27;F;No;No;No;Clinical Hyperthyroidism;Diffuse goiter;No;Papillary Low
+17;F;No;Yes;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+27;F;No;No;No;Subclinical Hyperthyroidism;Single nodular goiter-right;No;Papillary Low
+40;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Intermediate
+33;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Intermediate
+25;F;No;Yes;Yes;Euthyroid;Single nodular goiter-right;No;Papillary Low
+73;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+36;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+35;F;No;No;No;Euthyroid;Multinodular goiter;Right;Papillary Intermediate
+31;M;Yes;No;No;Euthyroid;Multinodular goiter;Right;Papillary Intermediate
+18;F;No;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary Intermediate
+62;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Follicular Intermediate
+62;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Hurthel cell Low
+39;F;No;No;No;Euthyroid;Diffuse goiter;No;Hurthel cell Low
+37;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Hurthel cell Low
+26;F;No;Yes;No;Subclinical Hyperthyroidism;Single nodular goiter-right;No;Hurthel cell Low
+31;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Hurthel cell Low
+24;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Follicular Low
+57;F;Yes;No;No;Euthyroid;Multinodular goiter;No;Follicular Low
+28;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Follicular Low
+44;M;Yes;No;No;Euthyroid;Single nodular goiter-right;No;Follicular Low
+42;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Follicular Low
+27;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Follicular Low
+51;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+33;F;No;No;No;Clinical Hypothyroidism;Single nodular goiter-right;Right;Papillary Low
+42;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+26;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+24;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+60;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+60;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+31;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+66;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+44;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+32;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+26;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+37;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+33;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+23;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+47;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+28;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+37;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+26;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+28;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+28;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+44;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+31;F;No;Yes;No;Euthyroid;Single nodular goiter-right;Right;Papillary Low
+27;F;No;No;No;Clinical Hypothyroidism;Single nodular goiter-right;No;Papillary Low
+56;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+63;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+24;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+30;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+31;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+32;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+28;F;No;No;No;Clinical Hyperthyroidism;Multinodular goiter;No;Papillary Low
+51;F;No;Yes;No;Euthyroid;Multinodular goiter;No;Papillary Low
+20;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+21;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+32;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+26;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+42;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+28;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+41;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+42;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+49;F;No;Yes;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+29;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+29;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+25;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+41;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+33;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+27;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+50;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+19;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+35;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+63;F;No;No;No;Euthyroid;Normal;No;Papillary Low
+24;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+36;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+31;M;Yes;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+24;M;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+33;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+24;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+28;F;No;No;No;Clinical Hypothyroidism;Single nodular goiter-right;No;Papillary Low
+22;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+27;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+28;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+29;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+40;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+31;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+55;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+21;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+40;M;Yes;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+38;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+21;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+31;M;Yes;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+30;F;No;No;No;Euthyroid;Normal;No;Papillary Low
+50;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+34;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+45;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+52;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+38;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+67;M;Yes;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+72;F;No;No;No;Subclinical Hypothyroidism;Single nodular goiter-right;No;Papillary Low
+45;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+45;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+26;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+67;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+56;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+30;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+34;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+50;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+42;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+35;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+23;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+44;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+23;F;No;No;No;Euthyroid;Single nodular goiter-left;Left;Papillary Low
+26;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+61;M;No;No;No;Subclinical Hypothyroidism;Single nodular goiter-left;No;Papillary Low
+22;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+31;F;No;No;No;Clinical Hyperthyroidism;Diffuse goiter;No;Papillary Low
+68;F;No;No;No;Clinical Hyperthyroidism;Diffuse goiter;No;Papillary Low
+57;M;No;No;No;Clinical Hyperthyroidism;Single nodular goiter-left;No;Papillary Low
+27;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+25;F;No;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary Low
+20;M;No;No;No;Subclinical Hypothyroidism;Multinodular goiter;No;Papillary Intermediate
+33;M;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+36;F;No;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary Low
+36;F;No;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary Low
+40;F;No;No;No;Euthyroid;Multinodular goiter;Left;Papillary Intermediate
+17;F;No;No;No;Euthyroid;Multinodular goiter;Right;Papillary Intermediate
+24;F;No;No;No;Clinical Hypothyroidism;Multinodular goiter;Bilateral;Papillary Intermediate
+38;F;No;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary Intermediate
+28;F;No;No;No;Euthyroid;Multinodular goiter;Right;Papillary Intermediate
+36;F;No;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary Intermediate
+50;F;No;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary Intermediate
+51;M;No;No;No;Clinical Hyperthyroidism;Single nodular goiter-right;Right;Papillary Intermediate
+55;F;No;No;No;Subclinical Hypothyroidism;Multinodular goiter;Bilateral;Papillary Intermediate
+31;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+33;F;No;No;No;Clinical Hypothyroidism;Single nodular goiter-right;No;Papillary Low
+28;F;Yes;No;No;Clinical Hyperthyroidism;Single nodular goiter-right;No;Papillary Low
+48;M;No;No;No;Euthyroid;Single nodular goiter-left;Left;Papillary Intermediate
+40;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+29;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+20;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Intermediate
+35;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+56;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+20;M;No;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary Low
+62;F;No;No;No;Clinical Hypothyroidism;Multinodular goiter;No;Papillary Low
+17;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary High
+21;F;No;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary Low
+20;M;No;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary Intermediate
+40;M;Yes;No;No;Euthyroid;Multinodular goiter;Bilateral;Papillary Intermediate
+38;M;Yes;Yes;No;Euthyroid;Multinodular goiter;Right;Papillary Intermediate
+21;F;No;No;No;Euthyroid;Single nodular goiter-left;Left;Papillary Intermediate
+31;F;No;No;No;Euthyroid;Single nodular goiter-left;Left;Papillary Intermediate
+34;F;No;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary Intermediate
+60;F;No;No;No;Euthyroid;Multinodular goiter;Bilateral;Papillary Intermediate
+60;F;No;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary Intermediate
+62;F;No;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary Intermediate
+36;M;No;No;No;Clinical Hyperthyroidism;Multinodular goiter;No;Papillary Intermediate
+29;F;Yes;No;No;Euthyroid;Single nodular goiter-left;No;Follicular Low
+33;M;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+75;M;Yes;No;Yes;Euthyroid;Single nodular goiter-left;No;Follicular High
+62;M;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+56;M;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+52;F;No;No;No;Euthyroid;Multinodular goiter;No;Follicular Low
+35;F;No;No;No;Clinical Hyperthyroidism;Multinodular goiter;No;Papillary Low
+34;F;No;No;No;Euthyroid;Multinodular goiter;Bilateral;Papillary Intermediate
+32;F;No;No;No;Euthyroid;Multinodular goiter;No;Hurthel cell Low
+27;F;No;No;No;Clinical Hypothyroidism;Single nodular goiter-right;No;Hurthel cell Low
+52;F;Yes;No;No;Euthyroid;Single nodular goiter-left;Bilateral;Hurthel cell Low
+46;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Hurthel cell Low
+30;F;No;No;No;Subclinical Hypothyroidism;Normal;Right;Follicular Low
+32;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Follicular Low
+25;F;No;No;No;Clinical Hyperthyroidism;Multinodular goiter;No;Follicular Low
+38;F;No;No;No;Euthyroid;Multinodular goiter;No;Follicular Low
+31;M;Yes;Yes;No;Euthyroid;Single nodular goiter-left;No;Follicular Low
+37;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+21;M;Yes;Yes;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+34;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+30;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+48;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+31;M;Yes;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+52;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+38;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+41;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+41;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+70;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+19;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+41;M;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+32;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+35;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+39;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+45;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+46;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+45;F;No;No;No;Clinical Hypothyroidism;Single nodular goiter-left;No;Papillary Low
+28;M;Yes;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Low
+31;M;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+81;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+41;M;Yes;No;No;Euthyroid;Single nodular goiter-right;No;Hurthel cell Intermediate
+56;M;Yes;No;No;Euthyroid;Multinodular goiter;No;Hurthel cell Intermediate
+47;F;No;No;No;Euthyroid;Multinodular goiter;No;Follicular Intermediate
+37;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Follicular Intermediate
+32;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Intermediate
+53;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Intermediate
+30;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Papillary Intermediate
+34;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Intermediate
+62;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Hurthel cell Intermediate
+58;F;No;No;No;Clinical Hyperthyroidism;Multinodular goiter;No;Follicular Intermediate
+55;M;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Intermediate
+21;F;No;No;No;Euthyroid;Single nodular goiter-left;Right;Papillary Low
+27;F;No;No;No;Euthyroid;Multinodular goiter;Right;Papillary Intermediate
+46;F;No;No;No;Euthyroid;Multinodular goiter;Bilateral;Papillary Intermediate
+44;F;No;No;No;Euthyroid;Multinodular goiter;Right;Papillary Intermediate
+29;F;No;No;No;Euthyroid;Single nodular goiter-left;Left;Papillary Low
+26;F;No;No;No;Subclinical Hypothyroidism;Multinodular goiter;Right;Papillary Intermediate
+42;M;No;No;No;Subclinical Hypothyroidism;Single nodular goiter-right;No;Papillary Intermediate
+56;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Intermediate
+51;F;No;Yes;No;Euthyroid;Single nodular goiter-right;Right;Hurthel cell Low
+61;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Intermediate
+42;M;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Low
+34;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Low
+67;F;No;No;No;Euthyroid;Multinodular goiter;No;Hurthel cell Intermediate
+63;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Follicular Intermediate
+67;M;Yes;Yes;No;Euthyroid;Multinodular goiter;Bilateral;Papillary Intermediate
+73;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Intermediate
+26;F;No;No;No;Euthyroid;Single nodular goiter-left;Left;Papillary Intermediate
+30;F;No;No;No;Euthyroid;Multinodular goiter;Right;Papillary Intermediate
+36;F;No;No;No;Euthyroid;Single nodular goiter-left;Left;Papillary Intermediate
+31;F;No;No;No;Euthyroid;Multinodular goiter;Bilateral;Papillary Intermediate
+40;F;No;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary Intermediate
+49;F;No;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary Intermediate
+38;M;Yes;No;No;Euthyroid;Multinodular goiter;Bilateral;Papillary Intermediate
+27;F;No;No;No;Euthyroid;Single nodular goiter-right;Bilateral;Papillary Intermediate
+27;M;No;No;No;Euthyroid;Multinodular goiter;Bilateral;Papillary Intermediate
+33;F;No;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary Intermediate
+32;F;No;No;No;Euthyroid;Single nodular goiter-left;Left;Papillary Intermediate
+29;F;No;No;No;Euthyroid;Multinodular goiter;Right;Papillary Intermediate
+37;M;No;No;No;Euthyroid;Multinodular goiter;Bilateral;Papillary Intermediate
+48;F;No;No;No;Euthyroid;Multinodular goiter;Bilateral;Papillary Intermediate
+30;F;No;No;No;Euthyroid;Multinodular goiter;Bilateral;Papillary Intermediate
+33;M;No;No;No;Euthyroid;Multinodular goiter;Bilateral;Papillary Intermediate
+80;F;Yes;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary Intermediate
+62;F;No;No;No;Euthyroid;Multinodular goiter;Right;Papillary Intermediate
+63;M;Yes;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary Intermediate
+60;M;No;No;No;Euthyroid;Single nodular goiter-right;Bilateral;Papillary Intermediate
+79;M;Yes;No;No;Euthyroid;Multinodular goiter;Bilateral;Papillary Intermediate
+65;F;No;Yes;No;Euthyroid;Multinodular goiter;Bilateral;Papillary Intermediate
+35;F;No;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary Intermediate
+58;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Intermediate
+34;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary High
+56;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Follicular Low
+52;M;Yes;No;No;Euthyroid;Single nodular goiter-left;Right;Follicular Intermediate
+51;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Follicular Intermediate
+31;F;No;No;No;Euthyroid;Single nodular goiter-left;No;Follicular Intermediate
+44;M;Yes;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary High
+15;F;No;No;No;Euthyroid;Normal;Bilateral;Papillary Intermediate
+29;M;No;No;No;Euthyroid;Multinodular goiter;Extensive;Papillary Intermediate
+53;M;No;No;No;Euthyroid;Multinodular goiter;Bilateral;Papillary Intermediate
+45;F;No;No;No;Euthyroid;Single nodular goiter-left;Left;Papillary Intermediate
+38;F;No;No;No;Euthyroid;Single nodular goiter-left;Posterior;Papillary High
+48;F;No;No;No;Clinical Hyperthyroidism;Multinodular goiter;Left;Hurthel cell Intermediate
+42;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary Intermediate
+23;F;No;Yes;No;Euthyroid;Single nodular goiter-right;Right;Papillary Intermediate
+22;F;No;No;No;Euthyroid;Multinodular goiter;Right;Papillary Intermediate
+44;F;No;No;No;Euthyroid;Single nodular goiter-left;Left;Papillary Intermediate
+31;F;No;No;No;Euthyroid;Single nodular goiter-left;Left;Papillary Intermediate
+25;F;No;No;No;Euthyroid;Multinodular goiter;Left;Papillary Intermediate
+32;M;No;Yes;No;Euthyroid;Multinodular goiter;Bilateral;Papillary Intermediate
+82;M;Yes;No;No;Euthyroid;Single nodular goiter-left;Left;Papillary Intermediate
+58;F;No;No;No;Subclinical Hypothyroidism;Multinodular goiter;Extensive;Papillary Intermediate
+68;M;Yes;Yes;No;Subclinical Hypothyroidism;Single nodular goiter-left;Bilateral;Papillary Intermediate
+37;F;No;No;No;Subclinical Hypothyroidism;Single nodular goiter-left;No;Papillary Intermediate
+59;M;Yes;Yes;No;Clinical Hypothyroidism;Multinodular goiter;No;Hurthel cell Intermediate
+21;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Intermediate
+73;F;No;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary High
+35;M;Yes;No;No;Euthyroid;Single nodular goiter-left;Left;Papillary High
+32;F;No;No;No;Euthyroid;Single nodular goiter-right;No;Papillary Intermediate
+54;M;Yes;No;No;Euthyroid;Single nodular goiter-left;Right;Hurthel cell Intermediate
+26;F;Yes;No;No;Euthyroid;Single nodular goiter-left;Bilateral;Hurthel cell High
+53;F;No;No;No;Euthyroid;Multinodular goiter;Right;Papillary High
+35;F;No;No;No;Euthyroid;Multinodular goiter;Extensive;Papillary High
+49;M;No;No;No;Euthyroid;Multinodular goiter;Bilateral;Papillary High
+34;F;No;No;No;Euthyroid;Multinodular goiter;Right;Papillary High
+80;F;Yes;Yes;No;Euthyroid;Multinodular goiter;Right;Papillary High
+67;F;No;No;No;Euthyroid;Single nodular goiter-right;Right;Papillary High
+68;F;No;No;No;Euthyroid;Multinodular goiter;Bilateral;Papillary High
+71;F;Yes;No;No;Euthyroid;Single nodular goiter-left;No;Follicular High
+64;F;No;Yes;No;Euthyroid;Multinodular goiter;No;Follicular High
+80;M;Yes;No;No;Euthyroid;Single nodular goiter-left;No;Hurthel cell Intermediate
+56;F;No;No;No;Euthyroid;Multinodular goiter;Posterior;Papillary High
+71;M;Yes;Yes;No;Subclinical Hypothyroidism;Multinodular goiter;Bilateral;Papillary High
+78;M;Yes;Yes;Yes;Clinical Hyperthyroidism;Multinodular goiter;No;Follicular High
+51;F;No;No;No;Euthyroid;Multinodular goiter;No;Papillary High
+67;F;Yes;No;No;Subclinical Hypothyroidism;Multinodular goiter;No;Papillary High
+31;M;Yes;No;Yes;Euthyroid;Single nodular goiter-left;Extensive;Papillary High
+62;M;Yes;No;No;Euthyroid;Single nodular goiter-left;Left;Papillary High
+59;F;No;No;No;Euthyroid;Multinodular goiter;Bilateral;Papillary High
+40;M;Yes;No;No;Euthyroid;Multinodular goiter;Bilateral;Papillary High
+46;M;Yes;No;No;Euthyroid;Single nodular goiter-left;Bilateral;Follicular High
+72;M;Yes;Yes;Yes;Euthyroid;Single nodular goiter-right;Right;Papillary High
+81;M;Yes;No;Yes;Euthyroid;Multinodular goiter;Extensive;Papillary High
+72;M;Yes;Yes;No;Euthyroid;Multinodular goiter;Bilateral;Papillary High
+61;M;Yes;Yes;Yes;Clinical Hyperthyroidism;Multinodular goiter;Extensive;Hurthel cell High
+67;M;Yes;No;No;Euthyroid;Multinodular goiter;Bilateral;Papillary High
